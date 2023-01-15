@@ -27,8 +27,11 @@ Our project focuses on developing a travel booking website with the theme of tou
    
    | Web elements  | Name | Use of third party resources and modifications (if any) | Modifications (if any) |
    | ------------- | ------------- | ------------- | ------------- |
-   | Content Cell  | Content Cell  | Content cell  | Content cell  |
-   | Content Cell  | Content Cell  | Content cell  | Content cell  |
+   | Icon  | Shafia Hanis Binti Shamsul Asmadi <br> (2110578)  | Icon “like” in Font Awesome is used in the header section  | All graphics are resized  |
+   |  Icon  | Shafia Hanis Binti Shamsul Asmadi <br> (2110578)  | Icon “file” in Font Awesome is used in the header section  | All graphics are resized  |
+   |  Link  | Shafia Hanis Binti Shamsul Asmadi <br> (2110578)  | Put the link to be directed to another website  | Change the links to “Sign Up here” and “Log In Here”  |
+   | Image  | Shafia Hanis Binti Shamsul Asmadi <br> (2110578)  | Images are taken from google images  | All graphics are resized  |
+   | Background  | Shafia Hanis Binti Shamsul Asmadi <br> (2110578)  | Color background for all pages  | -  |
    | Graphics for category  | Aida Najihah Binti Mohd Marzuki <br> (2118230)  | All graphics for the place, package and promotion in category are from google images. | All graphics are resized.  |
    | Icon  | Aida Najihah Binti Mohd Marzuki <br> (2118230)  | Icon ‘cart-shopping’ in Font Awesome is used in the header section. | Color for icon is changed  |
    | Background for all pages  | Hadura Fairuzza binti Abd Halim <br> (2113584)  | As background for all pages  | -  |
