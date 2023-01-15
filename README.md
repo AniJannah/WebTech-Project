@@ -17,7 +17,7 @@ Our project focuses on developing a travel booking website with the theme of tou
    
    | Name  | Contributions |
    | ------------- | ------------- |
-   | Content Cell  | Content Cell  |
+   | Shafia Hanis Binti Shamsul Asmadi <br> (2110578)  | - Pages: Starlight Homepage, Login Page, Sign Up Page, Likes, History <br> - Web elements: Navigation buttons, Logo, Icon <br> - Added social media links <br> - Insert images with appropriate styling <br> - Added responsive forms  |
    | Aida Najihah Binti Mohd Marzuki <br> (2118230) | -	Pages: Products Category, Place, Kuala Lumpur, Kedah, Perak, Terengganu <br> - Added 2 or more box of images for each page with appropriate styling for products catalogue.<br> - JavaScript event handlers for to enable active toggle for icon. <br> - JavaScript to create a function for alert when a ‘Book Now’ button is clicked. <br> -	Web elements: <br> + Navigation <br> + Icon <br> + Image <br> + Button <br>+ Alert <br> + Tables |
    | Hadura Fairuzza binti Abd Halim <br> (2113584)  | - Pages : Rating page, Submit page, Payment page <br> - Added customized star in rating page  |
    | Nor Ani Jannah Binti Ahmad Zaini <br> (2114802)  | - Pages: FAQs, About Us, Social Media, Message, Jamak prayer <br> - Insert images with appropriate styling. <br> - Added links to other websites with appropriate styling. <br> - Google Maps API to embed a map that shows the location of the agency’s office and user can interact with the map. <br> - Message Form <br> - JavaScript elements for alert message after submitting the message. <br> - Web elements: <br> + Texbox <br> + Button <br> + Link <br> + Images <br> + Maps  |
