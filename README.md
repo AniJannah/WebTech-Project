@@ -1,9 +1,14 @@
 # Group Starlight 
-'Starlight Traveling' <br>
-Prepared by Nor Ani Jannah Binti Ahmad Zaini (2114802) , Shafia Hanis Binti Shamsul Asmadi (2110578), Hadura Fairuzza Binti Abd Halim (2113584) and Aida Najihah Binti Mohd Marzuki (2118230) <br>
+<h2> Starlight Traveling </h2> 
+Prepared by: <br>
+Nor Ani Jannah Binti Ahmad Zaini (2114802) <br>
+Shafia Hanis Binti Shamsul Asmadi (2110578) <br>
+Hadura Fairuzza Binti Abd Halim (2113584) <br> 
+Aida Najihah Binti Mohd Marzuki (2118230) <br> <br>
 1. Project Description: <br>
+Our project focuses on developing a travel booking website with the theme of tourism. The destinations are all based in Malaysia with the initiative to support our local tourism industry and stimulate "Cuti-Cuti Malaysia". Our country has beautiful historical landmarks filled with culture and diversity that people can explore. They can track wild jungles, enjoy beautiful beaches, explore remarkable cities or eat delicious Malaysian food. It is also a part of contribution to the 8th Sustainable Development Goals which is decent work and economic growth. By 2030, we want to implement policies to promote sustainable tourism that create jobs and promote local culture and products. In this project, user can survey for holiday packages and make a booking. This include features like wishlist, review and ratings to improve the user's satisfaction.  
 2. Project Sitemap: <br> 
-   ![Tourism Site Map](https://user-images.githubusercontent.com/122706453/212503587-a267efcd-0987-4afd-ace8-a4c3c9a1ef25.jpg)
+   ![Tourism Site Map](https://user-images.githubusercontent.com/122706453/212503587-a267efcd-0987-4afd-ace8-a4c3c9a1ef25.jpg) <br> <br>
 3. Group Contributions <br><br>
    Each of the team members prepared 18 web pages for the project as shown in the following table.
    <br><br>
