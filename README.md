@@ -6,13 +6,13 @@ Shafia Hanis Binti Shamsul Asmadi (2110578) <br>
 Hadura Fairuzza Binti Abd Halim (2113584) <br> 
 Aida Najihah Binti Mohd Marzuki (2118230) <br> <br>
 1. Project Description: <br>
-Our project focuses on developing a travel booking website with the theme of tourism. The destinations are all based in Malaysia with the initiative to support our local tourism industry and stimulate "Cuti-Cuti Malaysia". Our country has beautiful historical landmarks filled with culture and diversity that people can explore. It is also a part of contribution to the 8th Sustainable Development Goals which is decent work and economic growth. By 2030, we want to implement policies to promote sustainable tourism that create jobs and promote local culture and products. In this project, user can survey for holiday packages and make a booking. This include features like wishlist, review and ratings to improve the user's satisfaction. <br><br>
+Our project focuses on developing a travel booking website with the theme of tourism. The destinations are all based in Malaysia with the initiative to support our local tourism industry and stimulate "Cuti-Cuti Malaysia". Our country has beautiful historical landmarks filled with culture and diversity that people can explore. It is also a part of contribution to the 8th Sustainable Development Goals which is decent work and economic growth. By 2030, we want to implement policies to promote sustainable tourism that create jobs and promote local culture and products. In this project, user can survey for holiday packages and make a booking. This include features like wishlist, review and ratings to improve the user's satisfaction. This project is about tourism website where people can access and use to book a trip to their desired destinations. We used html and css in all of the webpages, javascript, and API.<br><br>
 2. Project Sitemap:<br>
 ![Tourism Site Map](https://user-images.githubusercontent.com/122706453/212532080-28cd8299-4cc2-4228-b2fa-ad0cf33ccf1d.png)
 
 <br><br>
 3. Group Contributions <br><br>
-   Each of the team members prepared 18 web pages for the project as shown in the following table.
+   Each of the team members prepared 19 web pages for the project as shown in the following table.
    <br><br>
    
    | Name  | Contributions |
